@@ -921,6 +921,16 @@ margin-top: 5%;
   font-size:xx-large
 
 }
+
+  #brevet{
+  width: 32%;
+  
+}
+
+  #bac{
+  width: 30%;
+  
+} 
   
   
 @media (max-width: 768px) { /* Règles CSS pour les écrans de taille inférieure ou égale à 768px */ }
